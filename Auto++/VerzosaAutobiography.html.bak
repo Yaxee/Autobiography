@@ -1,0 +1,45 @@
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>The Autobiography of Martina Ysabel Casuga Verzosa</title>
+		<link rel="stylesheet" type="text/css" href="style.css" />
+	</head>
+
+	<body>
+	
+	<p class="line anim-typewriter">Typewrite effect using css()</p>
+	<br style="line-height:1280px">
+	<div id="daanimation">
+	<h1>The Autobiography of</h1>
+	<h3>Martina Ysabel Casuga Verzosa</h3>
+	</div>
+			
+		<div id="container">
+			
+		
+			<div id="header">
+				<br style="line-height:1280px">
+				<h2>The beginnings</h2>
+			</div>
+			
+		<div id="main">
+		<p>When my mother came up with my name, she said it had to link to something related to God. So, Ysabel came up. The first that was picked by God, and the rest were to fill the blanks for the name. </p>
+		<p>Martina Ysabel Casuga Verzosa.</p>
+		<p>I grew up sheltered and well-educated; always eager to learn the little things to prove I was better than most. However, it didn’t continue for my adult years. Many of the hobbies I took were drawing and gaming, mostly because of my competitive nature.</p>
+		<p>Drawing was something I wanted to be naturally talented at, but it all came down to hard work. Gaming was also something that came up that became competitive for me. Having older and younger boy cousins around for most of my life, I’d learn to deal that there was no rest when it came to who was on top in every single game.</p>
+		<p>However, the more I did see past gaming as being a competitive sport, I found it as a comfort once I relaxed. It was a magical place that I could run away to and find peace in my home. Not to say I didn’t grow up safe; far from it.</p>
+		<p>I was too safe.</p>
+		<p>I didn’t have privacy at all, with no personal room for myself to sleep in or to work in, I grew up with open doors to everything. So “games” were my escape, and I wanted to give people the feeling that I had when I found it. Comfort and fun, and to utilize it throughout generations. Thus, my hobbies increased overtime.</p>
+		<p>Gaming grew to my art, art made me animate, animation made me voice act, voice acting made me meet directors and writers which gave inspiration to me writing and much more.</p>
+		<hr/>
+		
+		<div id="daimage">
+			<img src="images/KOK.png"/>
+		</div>
+		<div id="footer">
+			Copyright &copy; 2022 Martina Verzosa.
+		</div>
+		
+	</body> 
+
+</html>

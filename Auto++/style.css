@@ -1,0 +1,83 @@
+
+.meimage{
+	align-items: center;
+	width: 300px;
+}
+
+#header{
+	color: #61E926;
+	text-shadow: 0 0 10px #61E926,
+				0 0 20px #61E926,
+				0 0 40px #61E926,
+				0 0 80px #61E926,	
+				0 0 120px #61E926;	
+}
+
+.wrap{
+	display: flex;
+	align-items: center;
+	height: 95vh;
+}
+
+.wrap h1{
+	
+	text-transform: capitalize;
+	font-family: consolas;
+	border-right: 3px solid #61E926;
+	animation: typist 16s steps(51) infinite, caret 1.3s infinite step-end;
+	white-space: nowrap;
+	overflow: hidden;
+}
+
+
+
+.h2{
+	color: #61E926;
+	text-align: center;
+}
+
+
+@keyframes caret{
+	0%, 100%{border-color: transparent;}
+	50%{border-color:#61E926;}
+}
+
+@keyframes typist{
+	0%{ width:0ch }
+	30%{ width:51ch; }
+	80%{ width: 51ch; }
+	90%{ width:0ch; }
+	100% { width: 0ch; }
+
+
+
+}
+
+
+body{
+	background-color: #040E00;
+	font-family: Courier New, monospace;
+	color: #61E926;
+	padding: 4em;
+	
+	text-align: center;
+}
+
+br {
+   line-height: 150%;
+}
+
+
+
+
+
+
+#main{
+	background-color: #040E00;
+	color: #61E926;
+	font-size: 19;
+	text-align: left;
+	margin-left: auto;
+	margin-right: auto;
+
+}
